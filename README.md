@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on Django & Django Rest Framework
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Django
 
 
